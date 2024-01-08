@@ -1,2 +1,2 @@
-# chip-seq-analysis
-chip-seq analysis pipeline
+# ChIP-seq-analysis
+ChIP-seq analysis pipeline
